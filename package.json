@@ -5,6 +5,9 @@
 	"license": "MIT",
 	"version": "1.0.0",
 	"main": "logto.js",
+	"scripts": {
+		"start": "npx parcel index.html"
+	},
 	"dependencies": {
 		"@logto/browser": "^2.2.0",
 		"parcel": "^2.10.3"
